@@ -1261,3 +1261,4 @@ java.lang.IllegalArgumentException: Version 23 of project facet java does not ex
 2024-11-19 00:32:21,711 [Worker-33: Launching Main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-11-19 00:32:21,713 [Worker-33: Launching Main] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ashen\OneDrive\Desktop\New folder\shoping-cart\src\test\resources
 2024-11-20 18:42:45,862 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-23 20:53:22,002 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
